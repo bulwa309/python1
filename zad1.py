@@ -24,3 +24,5 @@ with open("zadanie1.txt","w+") as file:
     while(x<=xk):
         file.write('{:10.3}{:15.8}{:15.8}{:15.8}\n'.format(x,exp(-x),z1(x),z2(x)))
         x += d
+		
+#dobrze
