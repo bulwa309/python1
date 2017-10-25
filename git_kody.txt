@@ -1,0 +1,6 @@
+#kolejnosc komend
+#git add *
+#git commit -m "komentarz do tego co dodaje"
+#git push/git pull (jak nie idzie)
+#git status (by zobaczyc co sie dzieje)
+#
